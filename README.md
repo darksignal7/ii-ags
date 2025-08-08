@@ -1,6 +1,6 @@
-## ii-ags
+# ii-ags
 Forked illogical-impulse from end-4 dots , customized it a bit..
-# Features (What features other than end-4 offers)
+## Features (What features other than end-4 offers)
 - Vertical Bar
 - Caelestia-dots like appaerance
 - Styled popus
