@@ -1,0 +1,22 @@
+[
+  "import Widget from 'resource:///com/github/Aylur/ags/widget.js'; const { Gtk } = imports.gi; const L…",
+  "setup: (widget) => Utils.timeout(1, () => { const r = widget.get_style_context().get_property('borde…",
+  "widget.set_size_request(r + shadowOffset * 2, r + shadowOffset * 2);",
+  "export const RoundedCorner = (place, props) => Widget.DrawingArea({ ...props, hpack: place.includes(…",
+  "export const RoundedCorner = (place, props) => Widget.DrawingArea({ ...props, hpack: place.includes(…",
+  "export const RoundedCorner = (place, props) => Widget.DrawingArea({ ...props, hpack: place.includes(…",
+  "RoundedCorner('bottomleft', {className: 'corner' })",
+  "export const RoundedCorner = (place, props) => Widget.DrawingArea({ ...props, hpack: place.includes(…",
+  "clip-path: circle(40%);",
+  ".rc-bottom-right::after { content: \"\"; position: absolute; right: 0; bottom: 0; width: 60px; height:…",
+  "rc-bottom-right",
+  ".my-box { position: relative; width: 200px; height: 200px; background: #3498db; /* kutunun kendi ren…",
+  "child: Widget.Box({ css:'background-color: red;', }),",
+  "botright_corner",
+  "cr.lineTo(r, r);",
+  "cr.arc(0, 0, r, 0, Math.PI / 2);",
+  "// Gölge (path büyütülmüş) cr.save(); cr.setSourceRGBA(0, 0, 0, 0.4); cr.arc(0, 0, r + 2, 0, Math.PI…",
+  "// Gölge cr.save(); cr.translate(-2, -2); // Gölge offset cr.setSourceRGBA(0, 0, 0, 0.4); cr.arc(0, …",
+  "cr.save(); cr.setSourceRGBA(0, 0, 0, 0.4); // siyah, %40 opak cr.arc(-2, -2, r, 0, Math.PI / 2); // …",
+  "cr.save(); cr.setSourceRGBA(0, 0, 0, 0.4); // Siyah, %40 opaklık cr.arc(2, 2, r, 0, Math.PI / 2); //…"
+]
