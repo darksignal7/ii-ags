@@ -6,7 +6,7 @@ NOTE: Please note that you must have AGSV1 on your computer inorder this config 
 (You can test it by typing agsv1 on terminal. If it doesn't give error it works.)
 You can also download end-4 ii-ags with a command from its official github repo. Then copy .config/ags
 
-NOTE!!: If you know how to use agsv1 I recommend you to get the official ii-ags from [https://github.com/end-4/dots-hyprland/tree/ii-ags end-4github] and customize it that way because i didn't know customization back in the time and used css other than className in so many places. So it can and will be hard for you to even change any widgets property (like size,position).
+NOTE!!: If you know how to customize agsv1 I recommend you to get the official ii-ags from [https://github.com/end-4/dots-hyprland/tree/ii-ags end-4github] and customize it that way because i didn't know customization back in the time and used css other than className in so many places. So it can and will be hard for you to even change any widgets property (like size,position).
 
 ## Features (What features other than end-4 offers)
 - Vertical Bar
