@@ -6,6 +6,8 @@ Forked illogical-impulse from end-4 dots , customized it a bit..
 - Styled popus
 - Bigger todo bar in sidebar
 - Categories for todos
+- Wallpaper selection in search bar
+- Styled search bar
 - Bug fixes
 - Minor improvements
 I don'use it for now. And surely there is bugs. 
