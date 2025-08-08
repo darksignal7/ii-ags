@@ -1,3 +1,6 @@
+# Screenshot:
+<img width="1922" height="1080" alt="image" src="https://github.com/user-attachments/assets/883e0131-11b0-42af-acc5-30af8b56e9d0" />
+
 # ii-ags || Forked from : https://github.com/end-4/dots-hyprland/tree/ii-ags
 Forked illogical-impulse (ags version) from end-4 dots , customized it a bit..
 
@@ -13,12 +16,12 @@ NOTE!!: If you know how to customize agsv1 I recommend you to get the official i
 - Caelestia-dots like appaerance
 - Styled popus
 - Bigger todo bar in sidebar
+- Prompts for AI sidebar
+- Prompts are now stays after a refresh of ags (But you have to clear the chat once)
 - Categories for todos
 - Wallpaper selection in search bar
 - Styled search bar
 - Bug fixes
 - Minor improvements
 
-# Screenshot:
-<img width="1922" height="1080" alt="image" src="https://github.com/user-attachments/assets/883e0131-11b0-42af-acc5-30af8b56e9d0" />
 
