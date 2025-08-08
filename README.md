@@ -1,4 +1,4 @@
-<img width="1922" height="1080" alt="image" src="https://github.com/user-attachments/assets/31d096a1-6060-4d6d-b571-cbf722fdfcdc" /># ii-ags || Forked from : https://github.com/end-4/dots-hyprland/tree/ii-ags
+# ii-ags || Forked from : https://github.com/end-4/dots-hyprland/tree/ii-ags
 Forked illogical-impulse (ags version) from end-4 dots , customized it a bit..
 
 I don'use it for now. And surely there is bugs.
