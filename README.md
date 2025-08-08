@@ -1,4 +1,4 @@
-# ii-ags || Forked from : https://github.com/end-4/dots-hyprland/tree/ii-ags
+<img width="1922" height="1080" alt="image" src="https://github.com/user-attachments/assets/31d096a1-6060-4d6d-b571-cbf722fdfcdc" /># ii-ags || Forked from : https://github.com/end-4/dots-hyprland/tree/ii-ags
 Forked illogical-impulse (ags version) from end-4 dots , customized it a bit..
 
 I don'use it for now. And surely there is bugs.
@@ -16,3 +16,7 @@ You can also download end-4 ii-ags with a command from its official github repo.
 - Styled search bar
 - Bug fixes
 - Minor improvements
+
+# Screenshot:
+<img width="1922" height="1080" alt="image" src="https://github.com/user-attachments/assets/883e0131-11b0-42af-acc5-30af8b56e9d0" />
+
