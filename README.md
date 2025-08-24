@@ -17,11 +17,10 @@ NOTE!!: If you know how to customize agsv1 I recommend you to get the official i
 - Styled popus
 - Bigger todo bar in sidebar
 - Prompts for AI sidebar
-- Prompts are now stays after a refresh of ags (But you have to clear the chat once)
+- Prompts now stays after a refresh of ags (But you have to clear the chat once)
 - Categories for todos
 - Wallpaper selection in search bar
 - Styled search bar
-- Bug fixes
-- Minor improvements
+
 
 
